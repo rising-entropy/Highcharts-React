@@ -6,7 +6,7 @@ export default class PieChartBasic extends Component {
 
     options = {
         chart: {
-          plotBackgroundColor: "#E6DDC6",
+          plotBackgroundColor: "#FAF3F3",
           plotBorderWidth: null,
           plotShadow: "5px",
           type: 'pie'

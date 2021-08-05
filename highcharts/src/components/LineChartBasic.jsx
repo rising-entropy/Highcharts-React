@@ -7,7 +7,7 @@ export default class LineChartBasic extends Component {
     options = {
         chart: {
             plotBackgroundColor: "#FDF6F0",
-            plotBorderWidth: null
+            plotBorderWidth: null,
           },
         title: {
           text: 'Netflix Subscriber Count Year 2019 (United States and Canada)'
